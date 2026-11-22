@@ -1,0 +1,4 @@
+interface:
+  display_name: "商业知识视频设计"
+  short_description: "基于研究标准设计商业与AI视频，覆盖开场、口播、分镜、音画和验收"
+  default_prompt: "请使用 $design-business-videos，为我的主题设计一支B站商业知识视频，完成选题研究、强开场、完整口播、动画分镜、声音方案和验收清单。"

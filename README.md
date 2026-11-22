@@ -12,6 +12,20 @@
 | [完整研究报告（Word）](docs/business-video-production-guide-v1.0.docx) | 下载编辑、批注、打印和团队传阅 |
 | [制作执行标准 V1.0](standards/business-video-production-standard-v1.0.md) | 后续每期策划、写稿、分镜、剪辑、验收与复盘的默认依据 |
 
+## 使用视频设计 Skill
+
+[商业知识视频设计 · design-business-videos](skills/design-business-videos/SKILL.md) 将上述研究转成可重复使用的设计流程。完整 Skill 源文件位于 [skills/design-business-videos](skills/design-business-videos)，包含核心指令、执行标准、完整研究依据、每期制作模板与界面元数据。
+
+安装该 Skill 后，可以这样提出任务：
+
+> 请使用 @design-business-videos，设计一条 12 分钟 B 站商业知识动画视频。主题是【主题】，面向【观众】。请完成选题核验、标题封面、开场、完整口播、全片分镜、音乐音效和验收方案。
+
+也可以只处理局部：
+
+> 使用 @design-business-videos，只重写这份脚本的前 90 秒。给两种不同入口，推荐一版，并写完整口播、分镜和声音设计，其他部分保持现有定稿。
+
+Skill 支持选题研究、完整设计、开场改写、口播优化、分镜声音设计和成片复盘。用户未指定时，默认 B 站、中文、横屏、约 12 分钟、配音与解释性动画；明确指定的时长、平台和修改范围优先。设计稿中的时间与混音参数属于预算，实际制作后再验证。
+
 ## 如何使用
 
 1. **策划立项：** 明确主问题、目标观众、观众收获与核心证据，填写报告末尾的启动表。
